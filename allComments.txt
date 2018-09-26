@@ -1,0 +1,143 @@
+left_V1_mid - decided to edit posterior section based on Kastner + reevaluation of polar angle data  right V3 diverges quite a bit from Kastner, both ventral and dorsal portions  not all lines completely intersect, we will see if this causes a problem.
+Eccentricity decisions difficult, much more so than polar angle decisions - checked against Kastner and curvature maps - ventral side of the inner eccentricities particularly tricky. 
+LH: no green stripe in V2 dorsal - used RH to "guess" where it might be  As before - eccentricity is the most ambiguous, particularly what to do when there is a thick patch of color or multiple faint patches nearby  This subject was significantly harder to rate than subjects 1 and 2.
+Edited RH dorsal V3 based on comparison to Kastner, and reinterpreting the polar angle data - if the polar angle data didn't support Kastner's dorsal boundary equally, I wouldn't have made the change.  LH dorsal also differs from Kaster, but I looked more carefully at the polar angle data and didn't see a reason to adjust.
+To match Kastner's V2 midline, you have to choose the center of wherever there is a green hue (including yellowish green) - not choose the deepest colored patch. Deepest color patch rides the bottom of the calcarine, while "middle" goes through the center of the sulcus. 
+LH: data challenging in dorsal polar angle map  Confident/unsure: this was my first subject after a gap of a few days, and I forgot to use the confident/unsure ratings.
+This is the most unclear dataset so far (subjects 1-7), polar angle maps mainly. LH was much worse than RH.  Forgot to use the "confident/unsure" keyboard shortcut again - would have marked "unsure" for most of the subject
+Fairly easy subject - especially compared to subject 7 and subject 3. "spiky" eccentricity map. 
+Eccentricity was challenging for me, as usual on both sides, but overall this subject's data were as clear as the "easiest" to score subjects I've done so far. 
+Some uncertainty how to draw dorsal boundaries. 
+LH: polar angle - some stripes very twisted - also some stripes were more blobs and were not stripes.  RH: similar issues, but less dramatic disparity from Kastner
+Even though data is rated clear in both hemispheres, this subject is at the lowest quality end of this category. Really wished I could check against Kastner on this subject! 
+Nothing distinctive. Smooth process. 
+eccentricity map at dorsal edges gets bizarre/unclear and links with polar angle lines in sharp and distorted ways.  eccentricity map 7 deg very atypical trajectory  LH dorsal v2/v3 polar angle lines are more like patches and blobs
+Unsure how to link 7 deg eccentricity to V3 boundaries in both hemispheres, dorsally AND ventrally. Haven't seen this in previous subjects.  Polar angle map is not terrible - but stripes seem to end much before they can reach 7 deg eccentricity lines.
+High uncertainty in eccentricity map, particularly V3d/v edges.  Not terrible data quality compared to other people though.
+Data are really difficult - not only each map, polar angle and eccentricity, but really bizarre trying to make them align to each other.  Worried about alignment error - maps seem shifted ventrally not around the calcarine. Kastner map also seems wrong compared to curvature map.  IMHO, this subject should not be included in the final analysis.
+No major comments 
+7 deg band incomplete in both hemispheres - and lines is "imagined" in missing segments  Also the dorsal V3 polar angle stripes are not easy to read
+Polar angle maps: very poor in LH and patch in RH also.  Eccentricity: undecided how RH dorsal v3 7 deg trajectory should go.  Overall, map differs significantly from Kastner, low confidence in my rated lines.
+RH dorsal polar angle stripes absent 
+Dorsal parts of maps differ from Kastner 
+Some difficulty in polar angle stripes dorsally, but the Kastner interpretation lined up with my own marks, making me more confident and able to say "data clear" overall. 
+Very unclear polar angle data in both hemispheres. Hemisphere differ very wildly from each other compared to all previous subjects.  I dearly wish I could have had the Kastner data with this subject.
+Much easier than previous subject. No particular difficulty to discuss 
+Dorsal V3 blobs are ambiguous in both LH and RH. They deviate quite a bit from the Kastner atlas boundaries. Nto sure whether or not to lower the ratings for data quality. This is very common. 
+7 deg line: excluded extra bubble near the ventral side - in both hemispheres - seems more clearly excludable on the LH  Data very asymmetric
+Dorsal V3 - started to follow the 7 deg boundary into green patches on the theory that there are two foveal corona bumping into each other, so continue the trajectory not along the cyan, but where cyan would be if there wasn't another map crashing into the edge. 
+RH 0.5 deg eccentricity: Kastner trajectory is to dip down at the dorsal edge, I can see that. Not super confident about where I drew my line.  Overall good alignment between Kastner, curvature, and so on.
+Very compact map. RH is very twisted compared to the LH maps. Good correspondence to curvature map. 
+Good correspondance between maps, hemispheres, atlas, etc. 
+Good correspondence between all the maps. Nothing too ambiguous or difficult to decide. Checking against curvature map at the end was reassuring. 
+Nothing very distinctive 
+fine
+Terrible dataset. Noticeably worse on the LH, particularly the polar angle data.  Both hemispheres, the inner eccentricity data was basically missing and perhaps violating the "topology" of the template.
+The dorsal and ventral ends of the 7 degree boundary are crashing into other eccentricity maps. 
+Some ambiguity in dorsal polar angle, and inner eccentricities. 
+
+Polar angle discrepancy in LH more in ventral vs dorsal. Everything very mashed inwards.  Ventral maps much worse than dorsal - unusual, maybe never before seen in a subject. to have clear dorsal stripes but not ventral.  In eccentricity maps: little islands of blobs that are difficult to incorporate.
+V1 very discrepant from Kastner in LH - data very noisy there.  Overall, polar angle data poor.
+V3 boundaries quite different from Kastner on both LH and RH  Eccentricity maps are very tricky - especially in the LH and at the dorsal and ventral edges.
+Pretty good! Lucky that this is the subject with no atlas. 
+LH polar angle map: seems mis-mapped, values regularly go into the wrong hemisphere (pink and purple)  Eccentricity map very uncertain trajectories, especially in LH
+RH polar angle map - colors are including the wrong hemisphere (e.g., pink)  RH eccentricity map - inner eccentricities appear "split" in an impossible way.
+Dorsal polar angle maps are a mess in both hemispheres, but especially the left.  LH eccentricity bands are also exceptionally wiggly. With dots/spots of discrepant eccentricity. Some symmetrical warping tho. Low confidence.
+Nothing remarkable - ventral maps seem much more elongated, but that could be part of the flattened sphere representation 
+Starting to notice that the sulci adjacent to calcarine can be very spotty / dotty / piecey - as in this subject. Wonder if there's anything systematic to it, or just reflective of buckling  to cram foveal overrepresentation into a small volume
+First subject on the Wacom tablet - great experience! No real issues with the data. 
+Second subject with Wacom tablet. Very smooth experience. Good clear dataset helped. 
+Eccentricity maps much more wavy / distorted vs polar angle map 
+Eccentricity was more difficult than polar angle! This is not very common. 
+Posterior section of calcarine has a weird spotty appearance, as does the sulcus superior to it. Data seems OK - LH V3 boundaries very blobby not stripey. 
+very low confidence about the boundaries on this subject. both polar angle and eccentricity - they show unusual distortions. RH dorsal boundaries especially. no match to the underlying curvature / Kastner 
+LH dorsal polar angle maps very ambiguous. Everything else ok. 
+12:26 start - 12:42 finish  LH may need to be excluded - both fxnal maps are very abnormal, going into pink and purple on polar angle, missing regions in eccentricity. RH data not too great either.
+Nothing particularly notable - fovea area is particularly unclear. 
+20 min  LH polar angle lines needed to be redrawn several times, very tricky. both hemispheres the eccentricity bands are super spiky at the V2/V3 boundary. Low confidence overall for this subject.
+Straightforward - eccentricity boundaries were more difficult ambiguous vs polar angle. 
+Straightforward. Starting to overall feel like I'm making a systematic error in the innermost eccentricity bands - conflating two distinct nearby foveal representations?
+Very twisty ventral polar angle borders. Very twisty eccentricity bands as well. Why so twisty? Overall shape of map is unusual too (zone of V1-V3) 
+High unconfidence / low trust in these boundaries. LH is a bit worse than the RH. Very compacted blobby maps. 
+This is a case where the data is really warped on the brain, not aligning with the anatomy. There may be some error in alignment that would make this subject usable. Until then, I would NOT recommend inclusion. 
+Rare subject with worse dorsal polar angle map in RH vs LH. 
+Strange systematic deviation from Kastner atlas boundaries. Polar angle lines are shifted internally by half a gyrus or so in both hemispheres. Even though data quality is not remarkably terrible, I have very low confidence in this subject and worry about ALIGNMENT ISSUES 
+Do not include polar angle data from LH - V1 midline not aligned with calcarine. Maybe check alignment of this data to the anatomy? Looks like mush. Subject overall low confidence. 
+LH V2 and V3 ventral borders are essentially made up based on nothing.  Both hemispheres have an unusual edge in the data most visible in polar angle map at the farthest eccentricity.
+Both hemispheres the polar angle map is highly patchy and twisted / ambiguous in the dorsal side. Some of the eccentricity bands are also following unusual trajectories, particularly the central bands. Distrust dorsal polar angle boundaries. 
+LH data is much more problematic than RH. which is very close to the Kastner. In LH polar angle maps there are distortions dorsally AND ventrally. Ventrally the stripes reverse color halfway along the strip on the V2 and V3 ventral boundaries. Eccentricity bands are also very twisted and distorted compared to RH. 
+Pretty clear data in both hemispheres! Smooth experience marking lines. 
+Boundaries were not too tricky - just on the borderline of clear and some unclear - equally the case in both hemispheres. 
+Nothing particularly notable or difficult with this subject. 
+Rare subject whose RH polar angle map is much more unclear than in the LH. RH eccentricity is also very very fuzzy. 
+Smooth experience, nothing too deviant or difficult. 
+Maps overall seem very compact and "squashed". LH polar angle map is extremely ambiguous, borderline excludable subject. 
+Mostly a smooth process - but a few pts of ambiguity on both maps, in both hemispheres, nothing super notable. 
+LH dorsal map stripes very confusing. Inner eccentricities are very patchy/incomplete also. 
+In both hemispheres, the V2/V3 dorsal boundary is smeary and branching. Difficult to decide what to do there.  Eccentricity maps also crash headlong into nearby maps, especially dorsally.
+Smooth process - no Kastner atlas, but checking against curvature map, the lines seem sensible. 
+Trickiest part is the V1/V2 dorsal boundary, which apears to have a major branch in the LH. 
+LH dorsal polar angle map is very patchy and unusual. Difficult. 
+Polar angle maps are trickly dorsally in both hemispheres, but somewhat worse in LH 
+Nothing too notable. Eccentricity map was a little more tricky than polar angle 
+
+No Kastner - some of the polar angle boundaries were tricky, especially in the LH, but overall they look reasonable on the curvature map. 
+Very tricky - just on the edge of "data is clear" and some of the data is "unclear". Especially in the polar angle maps. 
+
+LH borderline unclear, especially in polar angle. 
+LH polar angle very blobby and difficult to judge, used Kastner for help. Eccentricity also violated grid "rules" a little. 
+Very thick lower VM representation in V1 in both hemispheres 
+Borderline unclear on both sides - not very easy on the polar angle map. Eccentricity map was pretty clear though. 
+RH V3 dorsal polar angle map: decided to bring the outer edge much closer in (there was a spot of yellow in the green that I decided to ignore). Ventral boundaries are very swirly and perhaps distorted and not reflective of the "real" trajectory of these boundaries. 
+Pretty smooth experience. 
+LH polar angle map is practically a series of parallel lines that do not intersect. RH seems fine. 
+Smooth process - LH seems more compact of a map than RH overall. 
+LH on edge of "some unclear" bc of missing data and smudgy data, but overall ok . 
+No Kastner - data looks reasonable based on curvature map. 
+Borderline "some unclear" - V1 is weirdly predominantly green throughout without having much yellow or light blue. Same in both hemispheres. Throughout, HM is very very prominent compared to other subjects. 
+RH eccentricity map is weirdly offset superiorly from the central tendency of the polar angle map. Bizarre. 
+LH polar angle: weird branching of V2 dorsal  RH: missing V3 dorsal stripe  Eccentricity - very faint patches, unclear what to do - usually went down the middle.
+Exceptionally clear polar angle data. Eccentricity data is pretty patchy near the fovea. 
+LH polar angle map: should the dorsal lines be twisted to be very different from how they are? More like the Kastner boundaries? Probably - but the presence of a green stripe is very tempting and that's what I went with, arranging the others around that. 
+Stripe polarity reversals - keeping the stripe shape but reversing polar angle in a systematic way - seen in a few subjects, but especially here in the RH ventral maps only. So weird.  Very interesting symmetrical quirk to the 0.5/1 deg eccentricity line shapes LH and RH
+Smooth process 
+Borderline unclear, especially with dorsal polar angle maps. But ok overall. 
+OK process 
+Borderline unclear, especially RH eccentricity 
+RH eccentricity: spots of 1 deg in the 2 deg field. RH polarity: very twisty strange polarity stripe trajectories. LH is also unclear in similar ways, but to a much lesser extent 
+Pretty good. But LH has bridging V2d/V3d near 1 degree band, plus a Y shape extending from V2d. Everything is matching curvature in a reasonable way, though no atlas marks to compare. 
+Very clear stripes! Some difficulty at edges of eccentricity maps. Wonderfully close correspondence to Kastner atlas. 
+RH ventral polar angle maps are basically blind guesses bc it's very noisy down there for some reason. 
+Another subject whose RH dorsal polar angle maps are much more problematic than on the LH. I think I see a Y shape plus a bridge. If I use that as my internal model, I can "confidently" make the boundary markings as I did on the RH. 
+Pretty smooth! No real problems. 
+Dorsal maps deviate from curvature/Kastner, but the polar angle data are relatively clear, so I don't feel conflicted about making the boundaries as I did. 
+Polar angle data not great - especially as it meets the 7 and 4 degree eccentricity lines at the dorsal and ventral edges - unclear what is the right thing to do in setting the boundaries. I tried to follow directions established in recent lab meeting 8/28/18
+Very admirable eccentricity data. Polar angle data is fair. 
+LH tricky eccentricity data. Example of bridging across V2d/V3d near 1/0.5 deg 
+Something bizarre happening in the LH - both functional maps. POlar angle, we see a Y junction and lots of bridging. Eccentricity, the inner boundaries are highly unclear. 
+Very clear correspondance between all maps, anatomy and atlas - exception is insanely crooked RH V3 ventral 
+Nothing remarkable. 
+This is a subject I really relaly wish I had atlas visible for! The polar angle map is the main culprit. LH is worse than RH, but RH is also terrible. Weird swirly effect. Briding / Y shape. Ventral maps are also highly distorted. This is where I really think there is some kind of Fata Morgana mirage swirling distortion that is taking real data and making it appear in a slightly displaced location. 
+Nothing particularly remarkabl 
+LH polar angle data is ambiguous. Everything else is fair. 
+Very wide stripes where color mapping covers the contralateral visual field - LH is very discrepant from the atlas lines. RH matches lines pretty well. 
+Nothing super-systematic about how unclear the data are - just overall higher level of difficulty across all maps, especially polar angle
+Borderline unclear, especially on the RH 
+Borderline unclear subject. Dorsal maps in both hemispheres seem weirdly compressed ventrally and not in tune with the curvature/anatomy 
+Borderline unclear on both sides - dorsally in LH and ventrally in RH problematic 
+Not the easiest subject, but not quite in the "unclear" category. 
+Besides the usual problems with dorsal maps, the RH HM is very bowed in my judgment but flat according to the anatomy and the atlas. Keep an eye on this. Also this subject is a good example of the kind of cheetah spotted upper lip of the calcarine that may prove to be interesting to eccentricity mapping - maybe they are like the "rungs" in that they can be landmarks indicating the characteristic location of various eccentricity bands. You can see these spots on the upper lip in both LH and RH. 
+Really crinkly/buckled LH V1d and RH HM. Overall the functional data doesn't seem super problematic, but then when you look at the overall spatial arrangement of lines, the maps seems very distorted and very discrepant from the atlas and the curvature map. 
+Eccentricity map highly "swirly" and unusual. Polar angle map smudgy also. Together, "unclear" in both hemispheres overall. 
+Nothing particularly notable 
+Borderline "unclear" - discrepancy unusual along the HM in both hemispheres. 
+Very pointed eccentricity maps at V1v border - EXTREME. Maps very compact. Inner eccentricities probably violate the overall grid geometry of these V1-V3 maps.  Borderline excludable - the maps overall are SO discrepant from the atlas and from the underlying anatomy it's really disturbing.
+V1 and ventral maps in good agreement across functional and anatomical maps. Dorsally, the maps diverge from atlas and anatomy, especially RH dorsal, where stripe cuts out very short. 
+Pretty smooth process - but weirdly thick V1d stripes in both hemispheres, esp RH. Also ambiguity in the 7 and 4 degree bands dorsally - there is a weird extra green blob, I decided to include it on both sides, only because the polar angle stripe reached to these edges also. 
+v3d RH stops convincingly short of the outer eccentricity bands, suggesting they should be brought inwards instead of continued to follow along the next door foveal cluster. But instead I just marked the uncertainty with a dotted line.  Everything else seems unremarkable, though imperfect.
+V3D on both hemispheres is insane. I did it mostly based on the anatomy and guesses. The actual polar angle data is insane. LH is a Y fork happening at the V1/V2d, plus a bunch of patches. Similar situation on RH but a little clearer. 
+Dorsal boundaries for all three maps, in both hemispheres, seem shifted a half or whole map inwards. Ventral maps match well the underlying curvature and atlas. Additionally, the polar angle stripes show weird forking and patching that are difficult. Is there some kind of distortion that would compress the maps dorsally but not ventrally? Even highy reliable anatomical landmarks like calcarine do not seem respected by these polar angle data. Then again, maybe the atlas is just off for some reason dorsally - look carefully on curvature. 
+Maps look distorted - appearing very high on the sphere overall, and some kind of shift distortion in the ventral maps on both sides, but also dorsally in LH. Very difficult. -- Funny symmetrical quirk of the 0.5 and 1 deg bands in both hemispheres. -- Tricky both sides, but especially tricky in LH 
+Eccentricity map seems like everything got sucked inwards to the center - distortion. Inner bands are very patchy and unclear.-- doesn't seem to match the atlas very well, especially dorsally. 
+LH polar angle stripes: reversal distortions ventrally  for V2v and V3v.  Otherwise, the polar angle data was much clearer than the previous several brains, it was a a relief! 
+Y-branch in RH V1d. Should green stripe be drawn through the green patch in the crotch of the Y branch? -- Everything else pretty smooth. 
