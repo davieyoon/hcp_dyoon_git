@@ -8,17 +8,21 @@
 %
 % Also calls the function CROPIMAGE, .m file created by DY from code on
 % matlab answers website. 
+%
+% Choose whether to save out as the original 1-181 subids or 6 digit ids by
+% commenting out the appropriate file saving command at the end. 
 
-desktopPath = '/Users/davie.yoon/Desktop/'; 
-dyDir = 'export_dyoon';
-addpath(fullfile(desktopPath,dyDir)); 
+dropboxPath = '/home/stone-ext4/generic/Dropbox/hcp7tret-cmf';
+codeDir = 'export_dyoon_code'; 
+pngDir = 'export_dyoon'; 
 newDir = 'export_dyoon_combined'; 
 subList = 'subjectsUnique.mat';
 
-tmp = load(fullfile(desktopPath,dyDir,subList)); 
+tmp = load(fullfile(dropboxPath,codeDir,subList)); 
 subs=tmp.subjectsUnique; % load in the appropriate field 
 
-cd(fullfile(desktopPath,dyDir)); 
+addpath(fullfile(dropboxPath,codeDir)); 
+cd(fullfile(dropboxPath,pngDir)); 
 
 for ii=1:length(subs)
     cv_filename = sprintf('dyoonCV%s.png',num2str(ii));
@@ -31,8 +35,11 @@ for ii=1:length(subs)
     ecIm = imread(ec_filename); 
     ecImCrop = hcp_cropImage(ecIm); 
     newIm = vertcat(cvImCrop,paImCrop,ecImCrop);
-    saveName = sprintf('%s_dyoon.png',subs{ii}); 
-    imwrite(newIm, fullfile(desktopPath,newDir,saveName)); 
+    % write out a copy with the real 6 digit subject id numbers
+    %saveName = sprintf('%s_dyoon.png',subs{ii});
+    % write out a copy with the original 1-181 subject id numbers
+    saveName = sprintf('dyoon_%d.png',ii); 
+    imwrite(newIm, fullfile(dropboxPath,newDir,saveName)); 
 end
 
 %% Check which subject files are missing 

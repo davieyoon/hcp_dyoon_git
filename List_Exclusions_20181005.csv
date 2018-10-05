@@ -1,0 +1,13 @@
+Original_ID,HCP_ID,LH score,RH score,"Recommend 
+exclusion","Dorsal V2/V3 Y-bridge consistent
+LH","Dorsal V2/V3 Y-bridge consistent
+RH","EccCrash consistent 
+Why LH dorsal freq? ","Distortion/Swirl - so bridging 
+and pronging is an artifact?"
+55,214019,4,3,Y,No Y,No Y,LH dorsal/ventral,LH insane poor quality
+62,125525,4,4,Y,No Y,No Y,LH dorsal  ,OUTLIER SWIRLY
+65,192439,4,3,Y,No Y,Potential Y above 7 deg,No   ,LH insane like S62
+120,706040,4,3,Y,Potential Y ,No Y,No  ,Ventral swirliness both hemi
+134,958976,3,3,Y,No Y,No Y,No,Distortion? Vs anatomy/atlas
+161,169444,4,4,Y,No Y,No Y,No  ,Noisy / speckly / junky 
+167,572045,4,4,Y,N/A,N/A,N/A,Missing data
