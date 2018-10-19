@@ -6,6 +6,7 @@ This is a copy of the DYOON_GIT (formerly EXPORT_DYOON_CODE) directory on the HC
 
 create new repository on github.com
 git remote add origin https://github.com/davieyoon/hcp_dyoon_git.git -- type into terminal, sets origin alias -- if it's breaking try this: https://stackoverflow.com/questions/1221840/remote-origin-already-exists-on-git-push-to-a-new-repository
+git remote rm origin
 git push origin master : send stuff from my computer to the website
 refresh github repository website - should see it all the files there in github repository
 git remote -v : can push/pull from these listed repositories
