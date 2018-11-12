@@ -14,20 +14,20 @@
 
 dropboxPath = '~/Dropbox/hcp7tret-cmf';
 codeDir = 'dyoon_git'; 
-pngDir = 'export_dyoon'; 
-newDir = 'export_dyoon_combined'; 
+pngDir = 'export_dylanf'; 
+newDir = 'export_dylanf_combined'; 
 subList = 'subjectsUnique.mat';
 
-tmp = load(fullfile(dropboxPath,codeDir,subList)); 
+tmp = load(fullfile(dropboxPath,pngDir,subList)); 
 subs=tmp.subjectsUnique; % load in the appropriate field 
 
 addpath(fullfile(dropboxPath,codeDir)); 
 cd(fullfile(dropboxPath,pngDir)); 
 
 for ii=1:length(subs)
-    cv_filename = sprintf('dyoonCV%s.png',num2str(ii));
-    pa_filename = sprintf('dyoonPA%s.png',num2str(ii)); 
-    ec_filename = sprintf('dyoonEC%s.png',num2str(ii));
+    cv_filename = sprintf('dylanfCV%s.png',num2str(ii));
+    pa_filename = sprintf('dylanfPA%s.png',num2str(ii)); 
+    ec_filename = sprintf('dylanfEC%s.png',num2str(ii));
     cvIm = imread(cv_filename); 
     cvImCrop = hcp_cropImage(cvIm); 
     paIm = imread(pa_filename); 
@@ -36,9 +36,9 @@ for ii=1:length(subs)
     ecImCrop = hcp_cropImage(ecIm); 
     newIm = vertcat(cvImCrop,paImCrop,ecImCrop);
     % write out a copy with the real 6 digit subject id numbers
-    saveName = sprintf('%s_dyoon.png',subs{ii});
+    saveName = sprintf('%s_dylanf.png',subs{ii});
     % write out a copy with the original 1-181 subject id numbers
-    %saveName = sprintf('dyoon_%d.png',ii); 
+    %saveName = sprintf('dylanf_%d.png',ii); 
     imwrite(newIm, fullfile(dropboxPath,newDir,saveName)); 
 end
 
